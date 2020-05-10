@@ -1,3 +1,3 @@
-[My personal website](perennialstudent.github.io)
+[My personal website](https://perennialstudent.github.io/)
 
 perennialstudent.github.io
