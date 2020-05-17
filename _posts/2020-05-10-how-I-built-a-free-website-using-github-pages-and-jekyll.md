@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "How I built a free website using GitHub Pages and Jekyll with no prior knowledge in web-building"
+title:  "How I built a free website using GitHub Pages and Jekyll, with no prior knowledge in web-building"
 #author: sal
 categories: [ Jekyll, GitHub, tutorial ]
 image: assets/images/2020/website-screenshot.png
 beforetoc: "A condensed review of how I built my website."
 toc: true
 featured: true
+comments: false
 ---
 
 ## Motivation

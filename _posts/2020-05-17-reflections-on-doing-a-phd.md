@@ -5,6 +5,7 @@ title:  "Reflecting on my 3.5 years as a PhD student"
 categories: [ career, reflection ]
 image: assets/images/2020/mushroom-photo.jpg
 featured: true
+comments: false
 ---
 
 ---
