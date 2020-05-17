@@ -1,7 +1,7 @@
 # Site
 name: Perennial Student
 title: Perennial Student
-description: "My personal test website."
+description: "A project / reflection archive"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: "" # the subpath of your site, e.g. /blog

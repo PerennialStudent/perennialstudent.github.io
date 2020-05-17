@@ -1,26 +1,41 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Hello and welcome.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<h5>Quick facts:</h5>
 
-<h4>Questions or bug reports?</h4>
+<ul>
+<li>I was born in Asia, educated in Australasia and currently working in Europe.</li>
+<li>I am an interdisciplinary researcher with a PhD in Physics.</li>
+<li>I like mountains and the outdoors.</li>
+<li>I enjoy hiking and playing squash.</li>
+<li>I love discovering new places, people, ideas and cultures.</li>
+</ul>
 
+<!--
+<p>Over the years, I have written several contributions to various platforms. This website will archive some of these contributions as well as log and organise my other personal projects.</p>
+-->
+
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/HM.jpg" alt="my pet :)" /></p>
+
+<h5>A bit more, if you are interested:</h5>
+<p>Feel free to reach out and connect via <a href="https://www.linkedin.com/in/fangou/">LinkedIn</a>.</p>
+<!--
 <p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+-->
 
 </div>
 
+<!--
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
@@ -33,3 +48,5 @@ comments: true
 </div>
 </div>
 </div>
+
+-->
