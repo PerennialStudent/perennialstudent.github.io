@@ -118,6 +118,3 @@ This is very similar to hosting the main website but with a few modifications.
 That's it for this quick, condensed tutorial on building your own website on GitHub Pages using Jekyll! It took me about a day to do all these steps. However, it definitely could have been quicker, as I was not familiar with GitHub in the beginning and had no prior knowledge about building websites.
 
 I have only covered the basic about GitHub Pages and Jekyll here, but as you keep experimenting you'll see that it is quite powerful and it is amazing that this is all available for free! :)
-
-
-<script data-ad-client="ca-pub-2169940957445604" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
