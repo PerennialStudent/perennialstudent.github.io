@@ -17,7 +17,7 @@ comments: false
 <li>I was born in Asia, educated in Australasia and currently working in Europe.</li>
 <li>I am an interdisciplinary researcher with a PhD in Physics.</li>
 <li>I like mountains and the outdoors.</li>
-<li>I enjoy hiking and playing squash.</li>
+<li>I enjoy hiking and playing squash and tennis.</li>
 <li>I love discovering new places, people, ideas and cultures.</li>
 </ul>
 

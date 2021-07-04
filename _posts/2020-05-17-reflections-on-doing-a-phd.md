@@ -13,7 +13,7 @@ comments: false
 ---
 After submitting my thesis in late 2019, I was invited by my institution to write a reflection piece about my PhD journey.
 
-Below is an edited version of the work, I hope it can provide some perspectives on the PhD.
+Below is an edited version of the work, I hope it can provide some perspectives on pursuing a PhD.
 
 ---
 ---

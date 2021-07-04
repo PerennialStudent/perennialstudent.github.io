@@ -6,7 +6,7 @@ categories: [ Jekyll, GitHub, tutorial ]
 image: assets/images/2020/website-screenshot.png
 beforetoc: "A condensed review of how I built my website."
 toc: true
-featured: true
+featured: false
 comments: false
 ---
 
@@ -89,7 +89,10 @@ Writing posts and editing pages are relatively straight forward and you can begi
 ```bash
 jekyll serve --draft
 ```
--	Jekyll serve –draft
+-	Update (03/07/2021):
+```bash
+bundle exec jekyll serve --draft
+```
 5.	Now the draft should show up when you browse on the local web server.
 
 ## Hosting main Jekyll website on username.github.io
